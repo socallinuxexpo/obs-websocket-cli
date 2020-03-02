@@ -1,0 +1,5 @@
+---
+host: localhost
+port: 4444
+password: secret
+log_level: WARN
