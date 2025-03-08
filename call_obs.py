@@ -53,6 +53,9 @@ def set_scene(ws, args):
 def set_camera(wc, args):
     set_scene(ws, ["FullCamera"])
 
+def set_bigcamera(wc, args):
+    set_scene(ws, ["BigCamera"])
+
 def set_slides(wc, args):
     set_scene(ws, ["FullSlides"])
 
